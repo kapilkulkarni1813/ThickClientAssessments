@@ -7,3 +7,5 @@
 
 - Phoenix Protector - A protection software for .NET assemblies. It provides obfuscation features like Name, String and Control Flow Obfuscation. The last feature is particularly important since it prevents the .NET assembly from being decompiled into an understandable language. The Name Obfuscation is provided with an exclusion list. Also there are some more features. The Phoenix Protector is the ideal solution for every .NET developer, due to its support of every kind of project and compatibility with every version of the .NET framework. If you want to know more, click on the product for a detailed presentation.
 
+- PEiD - PEiD detects most common packers, cryptors and compilers for PE files.It can currently detect more than 470 different signatures in PE files.It seems that the official website (www.peid.info) has been discontinued. Hence, the tool is no longer available from the official website but it still hosted on other sites.
+
