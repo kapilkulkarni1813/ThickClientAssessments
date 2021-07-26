@@ -9,3 +9,4 @@
 
 - PEiD - PEiD detects most common packers, cryptors and compilers for PE files.It can currently detect more than 470 different signatures in PE files.It seems that the official website (www.peid.info) has been discontinued. Hence, the tool is no longer available from the official website but it still hosted on other sites.
 
+- 	ILSpy	ILSpy is the open-source .NET assembly browser and decompiler
